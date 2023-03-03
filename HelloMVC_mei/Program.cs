@@ -4,7 +4,7 @@ using HelloMVC_mei.Data;
 using HelloMVC_mei.Models;
 namespace HelloMVC_mei;
 
-//bhjhj
+
 public class Program
 {
     public static void Main(string[] args)
